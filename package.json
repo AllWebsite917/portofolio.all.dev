@@ -1,0 +1,29 @@
+{
+  "name": "portofolio-3d-card",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.112.0",
+    "@react-three/fiber": "^8.17.6",
+    "@react-three/rapier": "^1.4.0",
+    "meshline": "^3.3.1",
+    "next": "^14.2.15",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "three": "^0.160.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.13",
+    "typescript": "^5"
+  }
+}
